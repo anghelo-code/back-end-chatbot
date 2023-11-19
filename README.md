@@ -1,5 +1,3 @@
-# backend-qolqa
-
 <p align="center">
   <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
 </p>
@@ -40,18 +38,6 @@ $ pip install -r requirements.txt
 
 # run the server
 $ uvicorn main:app --reload
-```
-
-## Running the emulators
-```bash
-# navigate to emulators-suit
-$ cd emulators-suite/
-
-# install dependencies
-$ npm install
-
-# run emulators
-$ npm run dev
 ```
 
 ## Support
